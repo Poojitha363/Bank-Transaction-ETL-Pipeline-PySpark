@@ -277,29 +277,26 @@ Similarly run all scripts sequentially.
 
 ## Read Transactions
 
-![Read Transactions](<img width="1253" height="826" alt="read and schema" src="https://github.com/user-attachments/assets/885d7fdc-7e29-4114-ae67-9dcd52622dee" />
-)
+![Read Transactions]
+
 
 ---
 
 ## Fraud Analysis
 
-![Fraud Analysis](<img width="687" height="917" alt="fraud transactions" src="https://github.com/user-attachments/assets/78dd5bee-f944-437a-bd12-3779216ca430" />
-)
-
+![Fraud Analysis]
 ---
 
 ## Transaction Analysis
 
-![Transaction Analysis](<img width="482" height="275" alt="transaction analysis" src="https://github.com/user-attachments/assets/018cbf41-0f6a-42c3-8482-9f999cd7459d" />
-)
+![Transaction Analysis]
+
 
 ---
 
 ## Customer Analysis
 
-![Customer Analysis](<img width="1376" height="817" alt="customer analysis" src="https://github.com/user-attachments/assets/00d76f14-e86a-402e-b3bc-51d4ceccbe95" />
-)
+![Customer Analysis]
 
 ---
 
