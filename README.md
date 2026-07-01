@@ -1,6 +1,6 @@
-# 🚀 Bank Transaction ETL Pipeline using PySpark
+#  Bank Transaction ETL Pipeline using PySpark
 
-## 📌 Project Overview
+##  Project Overview
 
 This project demonstrates an End-to-End ETL Pipeline built using Apache Spark (PySpark) on a real-world banking transaction dataset.
 
@@ -10,7 +10,7 @@ The project follows real-world Data Engineering practices and showcases distribu
 
 ---
 
-# 🏗️ Project Architecture
+#  Project Architecture
 
 ```
 Bank Transaction Dataset (CSV)
@@ -42,7 +42,7 @@ Partition Optimization
 
 ---
 
-# 📂 Project Folder Structure
+#  Project Folder Structure
 
 ```
 Bank_Transaction_ETL_Pipeline/
@@ -82,7 +82,7 @@ Bank_Transaction_ETL_Pipeline/
 
 ---
 
-# ⚙️ Technologies Used
+#  Technologies Used
 
 | Technology | Purpose |
 |------------|----------|
@@ -98,7 +98,7 @@ Bank_Transaction_ETL_Pipeline/
 
 ---
 
-# ✨ Features
+#  Features
 
 - Read Large CSV Dataset
 - Data Cleaning
@@ -117,9 +117,9 @@ Bank_Transaction_ETL_Pipeline/
 
 ---
 
-# 📊 Implemented Modules
+#  Implemented Modules
 
-## ✅ Read Transactions
+##  Read Transactions
 
 - Load CSV into Spark DataFrame
 - Infer Schema
@@ -127,7 +127,7 @@ Bank_Transaction_ETL_Pipeline/
 
 ---
 
-## ✅ Data Cleaning
+##  Data Cleaning
 
 - Remove Null Values
 - Remove Duplicates
@@ -135,42 +135,42 @@ Bank_Transaction_ETL_Pipeline/
 
 ---
 
-## ✅ Feature Engineering
+##  Feature Engineering
 
 - Create Derived Columns
 - Generate Business Metrics
 
 ---
 
-## ✅ Fraud Analysis
+##  Fraud Analysis
 
 - Detect Fraud Transactions
 - Fraud Statistics
 
 ---
 
-## ✅ Transaction Analysis
+##  Transaction Analysis
 
 - Transaction Type Analysis
 - Amount Distribution
 
 ---
 
-## ✅ Customer Analysis
+##  Customer Analysis
 
 - Customer Transaction Summary
 - High-value Customers
 
 ---
 
-## ✅ Partitioning
+##  Partitioning
 
 - Repartition
 - Coalesce
 
 ---
 
-## ✅ Window Functions
+##  Window Functions
 
 - ROW_NUMBER()
 - RANK()
@@ -178,14 +178,14 @@ Bank_Transaction_ETL_Pipeline/
 
 ---
 
-## ✅ Joins
+##  Joins
 
 - Inner Join
 - Join Analysis
 
 ---
 
-## ✅ Spark SQL
+##  Spark SQL
 
 - SQL Queries on Spark DataFrames
 - Group By
@@ -193,7 +193,7 @@ Bank_Transaction_ETL_Pipeline/
 
 ---
 
-## ✅ Aggregations
+##  Aggregations
 
 - COUNT
 - SUM
@@ -203,7 +203,7 @@ Bank_Transaction_ETL_Pipeline/
 
 ---
 
-# 🚀 Setup Instructions
+#  Setup Instructions
 
 ## 1 Clone Repository
 
@@ -277,53 +277,61 @@ Similarly run all scripts sequentially.
 
 ## Read Transactions
 
-![Read Transactions](c:\Users\venka\OneDrive\Documents\Pictures\Screenshots\read and schema.png)
+![Read Transactions](<img width="1253" height="826" alt="read and schema" src="https://github.com/user-attachments/assets/885d7fdc-7e29-4114-ae67-9dcd52622dee" />
+)
 
 ---
 
 ## Fraud Analysis
 
-![Fraud Analysis](c:\Users\venka\OneDrive\Documents\Pictures\Screenshots\fraud transactions.png)
+![Fraud Analysis](<img width="687" height="917" alt="fraud transactions" src="https://github.com/user-attachments/assets/78dd5bee-f944-437a-bd12-3779216ca430" />
+)
 
 ---
 
 ## Transaction Analysis
 
-![Transaction Analysis](c:\Users\venka\OneDrive\Documents\Pictures\Screenshots\transaction analysis.png)
+![Transaction Analysis](<img width="482" height="275" alt="transaction analysis" src="https://github.com/user-attachments/assets/018cbf41-0f6a-42c3-8482-9f999cd7459d" />
+)
 
 ---
 
 ## Customer Analysis
 
-![Customer Analysis](c:\Users\venka\OneDrive\Documents\Pictures\Screenshots\customer analysis.png)
+![Customer Analysis](<img width="1376" height="817" alt="customer analysis" src="https://github.com/user-attachments/assets/00d76f14-e86a-402e-b3bc-51d4ceccbe95" />
+)
 
 ---
 
 ## Window Functions
 
-![Window Functions](c:\Users\venka\OneDrive\Documents\Pictures\Screenshots\window funtions.png)
+![Window Functions](<img width="1347" height="540" alt="window funtions" src="https://github.com/user-attachments/assets/1090954c-80f5-4eea-80f8-6f32120510ad" />
+)
 
 ---
 
 ## Joins
 
-![Joins](c:\Users\venka\OneDrive\Documents\Pictures\Screenshots\jon operations.png)
+![Joins](<img width="1361" height="921" alt="jon operations" src="https://github.com/user-attachments/assets/b7c6ca93-df3e-4d06-9385-4659935bb044" />
+)
 
 ---
 
 ## Spark SQL
 
-![Spark SQL](c:\Users\venka\OneDrive\Documents\Pictures\Screenshots\spark analysis.png)
+![Spark SQL](<img width="742" height="282" alt="spark analysis" src="https://github.com/user-attachments/assets/132804aa-d76e-46f6-a2be-4bcd5ef039d5" />
+)
 
 ---
 
 ## Aggregations
 
-![Aggregations](c:\Users\venka\OneDrive\Documents\Pictures\Screenshots\aggregations.png)
+![Aggregations](<img width="940" height="265" alt="aggregations" src="https://github.com/user-attachments/assets/fe832084-686f-4766-b5ea-0efa9e77ef82" />
+)
 
 ---
 
-# 📈 Future Improvements
+#  Future Improvements
 
 - Apache Hadoop Integration
 - Hive Support
@@ -336,7 +344,7 @@ Similarly run all scripts sequentially.
 
 ---
 
-# 🎯 Learning Outcomes
+#  Learning Outcomes
 
 This project demonstrates practical experience in:
 
@@ -354,9 +362,9 @@ This project demonstrates practical experience in:
 
 ---
 
-# 👩‍💻 Author
+#  Author
 
-**Pooja**
+**Poojitha Indirala**
 
 B.Tech CSE | Aspiring Data Engineer
 
