@@ -273,58 +273,53 @@ Similarly run all scripts sequentially.
 
 ---
 
-# 📸 Project Screenshots
+#  Project Output
 
 ## Read Transactions
 
-![Read Transactions]
-
+![Read Transactions](screenshots/read_schema.png)
 
 ---
 
 ## Fraud Analysis
 
-![Fraud Analysis]
+![Fraud Analysis](screenshots/fraud_analysis.png)
+
 ---
 
 ## Transaction Analysis
 
-![Transaction Analysis]
-
+![Transaction Analysis](screenshots/transaction_analysis.png)
 
 ---
 
 ## Customer Analysis
 
-![Customer Analysis]
+![Customer Analysis](screenshots/customer_analysis.png)
+
+---
+
+## Join Operations
+
+![Join Operations](screenshots/jon_operations.png)
 
 ---
 
 ## Window Functions
 
-![Window Functions](<img width="1347" height="540" alt="window funtions" src="https://github.com/user-attachments/assets/1090954c-80f5-4eea-80f8-6f32120510ad" />
-)
-
----
-
-## Joins
-
-![Joins](<img width="1361" height="921" alt="jon operations" src="https://github.com/user-attachments/assets/b7c6ca93-df3e-4d06-9385-4659935bb044" />
-)
+![Window Functions](screenshots/window_funtions.png)
 
 ---
 
 ## Spark SQL
 
-![Spark SQL](<img width="742" height="282" alt="spark analysis" src="https://github.com/user-attachments/assets/132804aa-d76e-46f6-a2be-4bcd5ef039d5" />
-)
+![Spark SQL](screenshots/spark_analysis.png)
 
 ---
 
 ## Aggregations
 
-![Aggregations](<img width="940" height="265" alt="aggregations" src="https://github.com/user-attachments/assets/fe832084-686f-4766-b5ea-0efa9e77ef82" />
-)
+![Aggregations](screenshots/aggregations.png)
 
 ---
 
@@ -363,11 +358,11 @@ This project demonstrates practical experience in:
 
 **Poojitha Indirala**
 
-B.Tech CSE | Aspiring Data Engineer
+B.Tech CSE Graduate at NIT Warangal | Aspiring Data Engineer
 
 ---
 
-# ⭐ If you like this project
+#  If you like this project
 
 Please consider giving it a ⭐ on GitHub.
 
